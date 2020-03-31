@@ -1,4 +1,3 @@
-# gogoedu
-# Made for Minecraft
-
+# GoGoEDU
 Project files for gogoedu
+Minecraft source dependences
