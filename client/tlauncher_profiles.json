@@ -1,0 +1,15 @@
+{
+  "userSet": {
+    "selected": {
+      "username": "NameHere",
+      "type": "plain"
+    },
+    "list": [
+      {
+        "username": "NameHere",
+        "uuid": "af6526df68b83f53b452e58357061140",
+        "type": "plain"
+      }
+    ]
+  }
+}
